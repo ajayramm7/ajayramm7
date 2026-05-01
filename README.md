@@ -55,7 +55,7 @@ Git, GitHub, VS Code, Postman
 
 ## 📊 GitHub Stats
 
-![Ajayram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayramm7&show_icons=true)
+![Ajayram's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ajayramm7&show_icons=true&theme=radical)
 
 ---
 
