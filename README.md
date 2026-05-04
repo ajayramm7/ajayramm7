@@ -1,4 +1,4 @@
-# Hi, I'm Ajayram 👋
+# Hi, I'm Ajayram
 
 I'm an engineering student who enjoys building backend systems and working on real-world projects.
 
