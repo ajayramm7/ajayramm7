@@ -1,69 +1,63 @@
 # Hi, I'm Ajayram 👋
 
-🎓 Engineering Student | 💻 Full Stack Developer
+I'm an engineering student who enjoys building backend systems and working on real-world projects.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 🌱 Currently learning **Node.js, Express.js, and Backend Development**
-* 💡 Interested in building real-world scalable systems
-* 🧠 Strong foundation in **Data Structures & Algorithms**
-* 🔬 Exploring **AI & system-based projects**
-
----
-
-## 🛠 Tech Stack
-
-💻 **Languages:**
-C, C++, JavaScript
-
-🌐 **Backend:**
-Node.js, Express.js
-
-🗄️ **Database:**
-MySQL
-
-⚙️ **Tools & Technologies:**
-Git, GitHub, VS Code, Postman
+- Currently learning backend development with Node.js and Express  
+- Interested in building scalable and practical applications  
+- Strong understanding of Data Structures and Algorithms  
+- Exploring AI and system-based projects  
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### 🩺 Doctor Appointment & Consultation System
+**Languages:**  
+C, C++, JavaScript  
 
-* 📌 Full-stack backend system using Node.js
-* 📌 Features: Appointment booking, doctor dashboard, PDF prescriptions
-* 📌 Integrated video calling using WebRTC
+**Backend:**  
+Node.js, Express.js  
 
----
+**Database:**  
+MySQL  
 
-### 🤖 Algorithm Visualizer
-
-* 📌 Visualizes sorting and graph algorithms
-* 📌 Helps students understand DSA concepts interactively
-
----
-
-### 📊 Mentor-Mentee Management System
-
-* 📌 Database-driven system for managing mentor-mentee relationships
-* 📌 Includes structured schema design and queries
+**Tools:**  
+Git, GitHub, VS Code, Postman  
 
 ---
 
-## 📊 GitHub Stats
+## Projects
 
-![Ajayram's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ajayramm7&show_icons=true&theme=radical)
-
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/ajayrammeena/
-* 📧 Email: ajayramm7@gmail.com
+### Doctor Appointment & Consultation System  
+A backend system for managing doctor appointments.  
+Includes features like booking, doctor dashboard, PDF prescriptions, and video calling using WebRTC.  
 
 ---
 
-⭐ *Always open to learning and building impactful projects!*
+### Algorithm Visualizer  
+A tool to visualize sorting and graph algorithms to make DSA concepts easier to understand.  
+
+---
+
+### Mentor-Mentee Management System  
+A database-driven system to manage mentor-mentee relationships with proper schema design and queries.  
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ajayramm7&show_icons=true&theme=radical)
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/ajayrammeena/  
+Email: ajayramm7@gmail.com  
+
+---
+
+I’m always looking to learn new things and work on meaningful projects.
