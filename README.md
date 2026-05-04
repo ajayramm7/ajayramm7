@@ -1,12 +1,13 @@
 # Hi, I'm Ajayram
 
-I'm an engineering student who enjoys building backend systems and working on real-world projects.
+I'm a B.Tech CSE student at NIT Delhi, interested in building full-stack applications and working on real-world systems.
 
 ---
 
 ## About Me
 
-- Currently learning backend development with Node.js and Express  
+- Currently learning both frontend and backend development  
+- Working with JavaScript, Node.js, Express, and React  
 - Interested in building scalable and practical applications  
 - Strong understanding of Data Structures and Algorithms  
 - Exploring AI and system-based projects  
@@ -18,11 +19,14 @@ I'm an engineering student who enjoys building backend systems and working on re
 **Languages:**  
 C, C++, JavaScript  
 
+**Frontend:**  
+HTML, CSS, JavaScript, React  
+
 **Backend:**  
 Node.js, Express.js  
 
 **Database:**  
-MySQL  
+MySQL, MongoDB  
 
 **Tools:**  
 Git, GitHub, VS Code, Postman  
@@ -32,18 +36,18 @@ Git, GitHub, VS Code, Postman
 ## Projects
 
 ### Doctor Appointment & Consultation System  
-A backend system for managing doctor appointments.  
+A full-stack system for managing doctor appointments.  
 Includes features like booking, doctor dashboard, PDF prescriptions, and video calling using WebRTC.  
 
 ---
 
 ### Algorithm Visualizer  
-A tool to visualize sorting and graph algorithms to make DSA concepts easier to understand.  
+A web-based tool to visualize sorting and graph algorithms, making DSA concepts easier to understand.  
 
 ---
 
 ### Mentor-Mentee Management System  
-A database-driven system to manage mentor-mentee relationships with proper schema design and queries.  
+A database-driven system to manage mentor-mentee relationships with structured schema design and queries.  
 
 ---
 
@@ -60,4 +64,4 @@ Email: ajayramm7@gmail.com
 
 ---
 
-I’m always looking to learn new things and work on meaningful projects.
+I’m currently focusing on becoming a full-stack (MERN) developer and building practical applications.
